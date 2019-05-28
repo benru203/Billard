@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11242203655",
+    "firebase_url": "https://billard-957fe.firebaseio.com",
+    "project_id": "billard-957fe",
+    "storage_bucket": "billard-957fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11242203655:android:e076f5c8580ea6d6",
+        "android_client_info": {
+          "package_name": "com.example.billard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11242203655-l989h1bt14nt6s8u7ffgks0o81ambvm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.billard",
+            "certificate_hash": "b5a999584af5ea476fbe8df0945bcc39a78f4d67"
+          }
+        },
+        {
+          "client_id": "11242203655-ct962rla0ukdg8hvtbc3kncfr80aplre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-nEV_0nAZX-WWIQIbdLkP7a5lF4_Iw8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11242203655-ct962rla0ukdg8hvtbc3kncfr80aplre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
